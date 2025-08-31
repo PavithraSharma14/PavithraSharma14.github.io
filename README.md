@@ -27,12 +27,9 @@ This project showcases my work as a **Frontend Developer**, built using **HTML, 
 
 ## 📬 Contact  
 📧 Email: pavithrasharma456@gmail.com
-💼 LinkedIn: https://linkedin.com/in/www.linkedin.com/in/pavithrasharma
+💼 LinkedIn: www.linkedin.com/in/pavithrasharma
 🌍 Portfolio: https://PavithraSharma14.github.io
 
 ---
 
 ✨ *This portfolio is a reflection of my journey in web development — continuously evolving with new projects and learnings.*  
-
-## 📂 Folder Structure  
-
