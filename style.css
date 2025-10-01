@@ -507,8 +507,8 @@ span{
     }
 
     .home-img img {
-        height: 54vw
-        width: 54vw;
+        height: 80vw
+        width: 80vw;
         margin-top: 8rem;
     }
 
@@ -522,17 +522,12 @@ span{
     html {
         font-size: 50%;
     }
-
-    .home-img img {
-        height: 48vw
-        width: 48vw;
-        margin-top: 8rem;
-    }
     
     .contact form .input-box input {
         width: 100%;
     }
 }
+
 
 
 
