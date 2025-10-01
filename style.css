@@ -97,7 +97,10 @@ span{
 }
 
 .home-img img{
-    width: 25vw;
+    width: 26vw;
+    max-width: 240px;
+    min-width: 100px;
+    aspect-ratio: 1/1;
     border-radius: 50%;
     object-fit: cover;
     display: block;
@@ -524,3 +527,4 @@ span{
         width: 100%;
     }
 }
+
