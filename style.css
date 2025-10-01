@@ -97,8 +97,8 @@ span{
 }
 
 .home-img img{
-    width: 30vw;
-    height: 30vw;
+    width: 28vw;
+    height: 28vw;
     border-radius: 50%;
     object-fit: cover;
     display: block;
@@ -507,8 +507,8 @@ span{
     }
 
     .home-img img {
-        height: 50vw
-        width: 50vw;
+        height: 52vw
+        width: 52vw;
         margin-top: 8rem;
     }
 
@@ -527,6 +527,7 @@ span{
         width: 100%;
     }
 }
+
 
 
 
